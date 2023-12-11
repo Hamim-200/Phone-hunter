@@ -102,4 +102,4 @@ const displayphoneDetails = phone =>{
         </p>
     `
 }
-loadphones('apple');
+// loadphones('apple');
